@@ -1,0 +1,14 @@
+#all{
+	min-height: 100%;
+	position: relative;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+}
+#mainContent{
+	min-height: 400px;	
+}
